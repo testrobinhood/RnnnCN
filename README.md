@@ -39,7 +39,7 @@ to send message use cmd prompt → Ping (IP Address) <br>
 
 #####################################################################################<br>
 
-𝓔 <br>
+𝓔 (TCP)<br>
 
 
 #####################################################################################<br>
@@ -78,7 +78,12 @@ wireshark→ ethernet →(search) <b>ip.addr</b>==(ip)
 𝓘 (DHCP) <br>
 
 <img width="287" height="263" alt="I" src="https://github.com/user-attachments/assets/6d174c3f-f9cd-424c-9fd7-fd639222739e" /> <br>
+after connecting 4 devices to switch <br>
+Switch→physical→zoom in → power Off → (add 1st two modules to black box) →  Switch on <br>
+then connect remaining cables <br>
 
+Server→Desktop→IP Config → Ipv4 Address=10.0.0.1 <br>
+Server→Services→ DHCP→ Default Gateway =10.0.0.1 → Save → ON services(at top) <br>
 
 
 #####################################################################################<br>
